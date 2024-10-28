@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <li>🔭 I’m currently working in Oracle Cerner
 <li>🌱 I’m currently learning Data Science
 <li> 💬 Ask me about EDA and DSA
-<li>📫 Reach out to me at soukumaryadatta@gmail.com
+<li>📫 Reach out to me at <b>soukumaryadatta@gmail.com</b>
 <li>😄 Here's my Resume:
 <br>
 
