@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <li>🌱 I’m currently learning Data Science
 <li> 💬 Ask me about EDA and DSA
 <li>📫 Reach out to me at <b>soukumaryadatta@gmail.com</b>
-<li>😄 Here's my Resume:
+<li>😄 Here's my <a href="https://drive.google.com/file/d/1Zp5Agqs511pCVnSH7N0p1fF-lf20y3ok/view?usp=sharing">RESUME</a>
 <br>
 
 ![Soukumarya-Datta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=soukumarya-datta&theme=vue-dark&show_icons=true&locale=en&hide_border=true&layout=compact)
