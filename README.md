@@ -12,8 +12,15 @@ Here are some ideas to get you started:
 <li>🔭 I’m currently working in Oracle Cerner
 <li>🌱 I’m currently learning Data Science
 <li> 💬 Ask me about EDA and DSA
-<li>📫 Reach out to me at <b>soukumaryadatta@gmail.com</b>
-<li>😄 Here's my <a href="https://drive.google.com/file/d/1Zp5Agqs511pCVnSH7N0p1fF-lf20y3ok/view?usp=sharing">RESUME</a>
+<li>😄 Here's my <a href="https://drive.google.com/file/d/1Zp5Agqs511pCVnSH7N0p1fF-lf20y3ok/view?usp=sharing">RESUME</a></li>
+
+## 📫 Reach out to me on:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/soukumarya-datta-974b01185/)
+
+
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white&style=flat)](mailto:soukumaryadatta@gmail.com)
+
 <br>
 
 ![Soukumarya-Datta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=soukumarya-datta&theme=vue-dark&show_icons=true&locale=en&hide_border=true&layout=compact)
